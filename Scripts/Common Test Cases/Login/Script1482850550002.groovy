@@ -21,7 +21,7 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 
 WebUI.click(findTestObject('Page_CuraHomepage/btn_MakeAppointment'))
 
-WebUI.setText(findTestObject('Page_Login/txt_UserName'), Username)
+WebUI.setText(findTestObject('Page_Login/txt_UserName'), Usernamebbbbbbbbbbbbbbbbbbb)
 
 WebUI.setText(findTestObject('Page_Login/txt_Password'), Password)
 
