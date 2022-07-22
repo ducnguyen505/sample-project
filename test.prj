@@ -6,7 +6,7 @@
    <UUID>29fc5b67-f628-4f80-bf58-08fd4dcf077f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\HELPDESK\1252\sample project\test.prj</projectFileLocation>
+   <projectFileLocation>D:\Sample Katalon\sample-project\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
